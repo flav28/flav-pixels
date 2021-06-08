@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "contentstream": "^1.0.0",
-    "gif-encoder": "github:flav28/flav-gif-encoder",
+    "flav-gif-encoder": "github:flav28/flav-gif-encoder",
     "jpeg-js": "^0.3.2",
     "ndarray": "^1.0.18",
     "ndarray-ops": "^1.2.2",
