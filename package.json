@@ -1,5 +1,5 @@
 {
-  "name": "flav-pixels",
+  "name": "flav-save-pixels",
   "version": "2.3.4",
   "description": "Saves an ndarray as an image to a file",
   "main": "save-pixels.js",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/flav28/flav-pixels.git"
+    "url": "git://github.com/flav28/flav-save-pixels.git"
   },
   "keywords": [
     "save",
