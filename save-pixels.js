@@ -1,7 +1,7 @@
 'use strict'
 
 var ContentStream = require('contentstream')
-var GifEncoder = require('gif-encoder')
+var GifEncoder = require('flav-gif-encoder')
 var jpegJs = require('jpeg-js')
 var PNG = require('pngjs-nozlib').PNG
 var ndarray = require('ndarray')
